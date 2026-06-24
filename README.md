@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Yogesh 👋
 
-<!--
-**yogesh-ai-automation/yogesh-ai-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Developer (In Progress)
 
-Here are some ideas to get you started:
+Currently building skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- n8n
+- AI Agents
+- RAG (Retrieval-Augmented Generation)
+- Ollama
+- Hermes
+- APIs & Automation
+
+---
+
+## Current Goal
+
+Become job-ready as an AI Automation Developer by building real-world projects and automation systems.
+
+---
+
+## Learning Roadmap
+
+### Week 1
+- Python Fundamentals
+- APIs
+- JSON
+- AI Basics
+
+### Week 2
+- n8n Workflows
+- Webhooks
+- Automation
+
+### Week 3
+- RAG
+- Vector Databases
+- Embeddings
+
+### Week 4
+- AI Agents
+- Production Projects
+- Job Applications
+
+---
+
+## Projects (Coming Soon)
+
+- PDF RAG Chatbot
+- Customer Support Agent
+- Resume Screening Agent
+- Sales Automation Agent
+- n8n Workflow Collection
+
+---
+
+## Tech Stack
+
+- Python
+- n8n
+- Ollama
+- Hermes
+- Qdrant
+- GitHub
+
+---
+
+## Connect With Me
+
+LinkedIn: Coming Soon
+GitHub: https://github.com/yogesh-ai-automation
